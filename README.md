@@ -5,9 +5,13 @@ Preshax es un proceso de modificación de la consola 3Ds que forma parte del pro
 Agradecimientos también a los desarrolladores del Team Presa por facilitar la obtención del archivo Movable.sed, así como su futura continuación y dedicación al proyecto.  
 
 - En primer lugar, necesitaremos:
+
 Consola Virgen 3ds/2ds (Old o New) en versión 11.14 (Todas las Regiones son Válidas)
+
 Tarjeta Sd/Micro Sd en formato FAT32 de 4 a 32 GB
+
 Apuntar nuestro Código de amigo dentro de la aplicación Lista de Amigos
+
 Archivos Hack (se encuentra Luma 10.2.1 Español, Traducido por López Tutoriales, y Godmode9 2.0.0)
 
 - En segundo lugar, acudiremos a:
