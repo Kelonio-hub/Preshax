@@ -1,8 +1,8 @@
 # Preshax
 **Modificación de consola 3Ds**
 
-Preshax es un proceso de modificación de la consola 3Ds que forma parte del proceso Seedminer y toma pasos del proceso USM. Ambos procesos son del desarrollador Zoogie y todos los agradecimientos son para él y su gran labor. 
-Agradecimientos también a los desarrolladores del Team Preshax por facilitar la obtención del archivo Movable.sed, así como su futura continuación y dedicación al proyecto.  
+Preshax es un proceso de modificación de la consola 3Ds que forma parte del proceso Seedminer y toma pasos del proceso USM [https://github.com/zoogie/unSAFE_MODE]. Ambos procesos son del desarrollador Zoogie y todos los agradecimientos son para él y su gran labor. 
+Agradecimientos también a los desarrolladores del Team Preshax [https://discord.gg/8Fv8GDg] por facilitar la obtención del archivo Movable.sed, así como su futura continuación y dedicación al proyecto.  
 
 - En primer lugar, necesitaremos:
 
@@ -12,7 +12,7 @@ Tarjeta Sd/Micro Sd en formato FAT32 de 4 a 32 GB
 
 Apuntar nuestro Código de amigo dentro de la aplicación Lista de Amigos
 
-Archivos Hack (se encuentra Luma 10.2.1 Español, Traducido por López Tutoriales, y Godmode9 2.0.0)
+Archivos Hack (se encuentra Luma 10.2.1 Español, Traducido por López Tutoriales [https://github.com/LopezTutoriales/Luma3DS-Spanish] , y Godmode9 2.0.0)
 
 - En segundo lugar, acudiremos a:
 https://discord.gg/8Fv8GDg para sacar el archivo .sed. 
