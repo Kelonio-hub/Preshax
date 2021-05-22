@@ -2,7 +2,7 @@
 **Modificación de consola 3Ds**
 
 Preshax es un proceso de modificación de la consola 3Ds que forma parte del proceso Seedminer y toma pasos del proceso USM. Ambos procesos son del desarrollador Zoogie y todos los agradecimientos son para él y su gran labor. 
-Agradecimientos también a los desarrolladores del Team Presa por facilitar la obtención del archivo Movable.sed, así como su futura continuación y dedicación al proyecto.  
+Agradecimientos también a los desarrolladores del Team Preshax por facilitar la obtención del archivo Movable.sed, así como su futura continuación y dedicación al proyecto.  
 
 - En primer lugar, necesitaremos:
 
