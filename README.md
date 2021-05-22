@@ -16,6 +16,7 @@ Archivos Hack (se encuentra Luma 10.2.1 Español, Traducido por López Tutoriale
 
 - En segundo lugar, acudiremos a:
 https://discord.gg/8Fv8GDg para sacar el archivo .sed. 
+
 Con el anterior archivo.sed, sacaremos los archivos .bin ( F00D43D5.bin y usm.bin). https://movableproject.notsofter.repl.co/public/unsafemode.php.html
 El archivo usm.bin deberemos meterlo en la raíz de la SD.
 El archivo F00D43D5.bin debemos meterlo en la siguiente ruta: sdmc:/Nintendo 3DS/long hex number/another long hex number/Nintendo DSiWare (si no existe esta carpeta deberemos crearla respetando las Mayúsuclas y Minúsculas) 
